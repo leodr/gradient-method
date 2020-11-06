@@ -1,0 +1,13 @@
+{
+    "name": "gradientenverfahren",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "Leo Driesch",
+    "license": "MIT",
+    "scripts": {
+        "start": "node ."
+    },
+    "dependencies": {
+        "mathjs": "^8.0.0"
+    }
+}
